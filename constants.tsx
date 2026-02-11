@@ -136,15 +136,15 @@ export const SPECIAL_PROGRAMS = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
-    name: 'Akash',
+    name: 'AkashKUMAR',
     role: 'Software Engineer',
-    company: 'TCS',
+    company: 'Microsoft',
     content: 'The training at Sri Amulya was transformative. The hands-on projects helped me land a job at a top MNC.',
     avatar: 'https://picsum.photos/seed/rajesh/100/100'
   },
   {
     id: '2',
-    name: 'kumar',
+    name: 'Ashish',
     role: 'Data Analyst',
     company: 'Infosys',
     content: 'Excellent mentors and placement support. I highly recommend their Data Science program.',
