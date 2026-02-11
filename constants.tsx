@@ -136,7 +136,7 @@ export const SPECIAL_PROGRAMS = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
-    name: 'AkashKUMAR',
+    name: 'AkashKumar',
     role: 'Software Engineer',
     company: 'Microsoft',
     content: 'The training at Sri Amulya was transformative. The hands-on projects helped me land a job at a top MNC.',
