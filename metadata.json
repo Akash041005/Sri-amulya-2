@@ -1,0 +1,7 @@
+{
+  "name": "Sri Amulya Technologies Private Limited",
+  "description": "ISO 9001:2015 Certified | DPIIT Recognized Startup (DIPP243231) providing premium IT Training, Fashion Designing, Robotics & Electronics Projects, EV Technologies, and Infrastructure Services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
